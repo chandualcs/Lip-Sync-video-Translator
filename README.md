@@ -6,7 +6,7 @@ Code will be made available once the publication is submitted and confirmation i
 
 Result of NPTEL video in English audio to Telugu audio with lip sync.
 ![Original video in English](https://github.com/chandualcs/Lip-Sync-video-Translator/blob/main/original_English.mp4)
-![Translated to telugu with lip sync]()
+![Translated to telugu with lip sync](https://github.com/chandualcs/Lip-Sync-video-Translator/blob/main/translated_telugu.mp4)
 
 Original video link: [English](https://drive.google.com/file/d/1GyMPCevoYRJGlqvwN0yvhSicnWRE4Lm_/view?usp=drive_link)
 
